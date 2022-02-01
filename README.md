@@ -2,8 +2,10 @@
 - 👀 I’m interested in ... 3d printing, Arduino, C++, Python
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  Instagram.com/MakeitScott/
-                           Instructables.com/member/MakeitScott/
+- 📫 How to reach me ...  
+-                         Instructables.com/member/MakeitScott/
+-                         Instagram.com/MakeitScott/
+
 
 <!---
 MakeitScott/MakeitScott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
