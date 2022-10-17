@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MakeitScott
-- 👀 I’m interested in ... 3d printing, Arduino, C++, Python
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... 3d printing, Android, Arduino, C++, Python
+- 🌱 I’m currently learning ... Java, kolton 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  
 -                         Instagram.com/MakeitScott/
